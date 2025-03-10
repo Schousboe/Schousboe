@@ -1,4 +1,4 @@
-Yes, det er mig. Det _**Virkelig**__ mig. Utroligt hvad? 
+Yes, det er mig. Det er _**Virkelig**_ mig. Utroligt hvad? 
 
 Denmark, HTML and CSS, learning JS
 
