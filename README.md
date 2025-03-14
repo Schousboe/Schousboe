@@ -1,8 +1,7 @@
 Yes, det er mig. Det er _**Virkelig**_ mig. Utroligt hvad? 
 
-Denmark, HTML and CSS, learning JS
+Denmark, HTML, vanilla CSS, Bootstrap CSS, Materialize CSS and Popper JS - learning JS
 
-(Does Bootstrap and Popper count?)
 
 <!---
 Schousboe/Schousboe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
