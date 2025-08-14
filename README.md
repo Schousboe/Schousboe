@@ -1,6 +1,6 @@
 Yes, det er mig. Det er _**Virkelig**_ mig. Utroligt hvad? 
 
-Denmark, HTML, vanilla CSS, Bootstrap CSS, Materialize CSS and Popper JS - learning JS
+Denmark, React, Angular, HTMX, Alpine.js, Node.js, Python, JSON, HTML, CSS, different CSS frameworks :)
 
 
 <!---
