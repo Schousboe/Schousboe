@@ -1,6 +1,6 @@
 <h1 align="center">Schousboe</h1>
 
-<p align="center">I'm a full-stack developer focused on web apps with React and automation with Python. I also work with embedded projects on Raspberry Pi and contribute to open-source tools, often exploring security and penetration testing along the way.</p>
+<p align="center">I'm a full-stack developer from Denmark focused on web apps with React and automation with Python. I also work with projects on Raspberry Pi and contribute to open-source tools, while i'm exploring security and penetration testing on the sideline</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Schousboe.Schousboe&left_color=darkslategray&right_color=black&left_text=Visitors%20on%20this%20page"  />
