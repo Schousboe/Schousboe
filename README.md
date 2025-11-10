@@ -3,7 +3,7 @@
 <p align="center">I'm a full-stack developer from Denmark focused on web apps with React and automation with Python. I also work with projects on Raspberry Pi and contribute to open-source tools, while i'm exploring security and penetration testing on the sideline</p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Schousboe.Schousboe&left_color=darkslategray&right_color=black&left_text=Visitors%20on%20this%20page"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Schousboe.Schousboe&style=for-the-badge&left_color=darkslategray&right_color=black&left_text=Visitors%20on%20this%20page"  />
 </div>
 
 <div align="center">
