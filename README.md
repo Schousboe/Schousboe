@@ -1,4 +1,6 @@
-<h1 align="center">Schousboe</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&center=true&vcenter=true&color=F7B42C&repeat=true&width=500&lines=Hi%2C+I'm+Schousboe;Welcome!" alt="Typing SVG" />
+</h1>
 
 <p align="center">I'm a full-stack developer from Denmark focused on web apps with React and automation with Python. I also work with projects on Raspberry Pi and contribute to open-source tools, while i'm exploring security and penetration testing on the sideline</p>
 
