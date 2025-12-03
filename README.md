@@ -5,7 +5,7 @@
 <p align="center">I'm a full-stack developer from Denmark focused on web apps with React and automation with Python. I also work with projects on Raspberry Pi and contribute to open-source tools, while i'm exploring security and penetration testing on the sideline</p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Schousboe.Schousboe&style=for-the-badge&left_color=darkslategray&right_color=black&left_text=Visitors%20on%20this%20page"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Schousboe.Schousboe&style=for-the-badge&left_color=darkslategray&right_color=black&left_text=Visitors%20on%20this%20page"/>
 </div>
 
 <div align="center">
@@ -29,6 +29,7 @@
 ### Frameworks
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-F24405?logo=astro&logoColor=fff&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord.js&logoColor=white)
 
@@ -39,6 +40,19 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+
+# My articles on Medium!
+
+[![My Medium profile](https://img.shields.io/badge/medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@schousboe)
+
+## Latest Medium Articles
+
+### [Astro and the mordern frontend frameworks](https://medium.com/@Schousboe/astro-and-the-modern-frontend-landscape-0400487d8fd6)
+> _A comparative article on integrating React, Angular, Vue, Svelte, and Alpine.js_
+
+<img width="244" height="199" alt="image" src="https://github.com/user-attachments/assets/9d51cc81-8c95-481a-92ed-c320e69689a6" />
+
+
 # Stats
 
   
@@ -46,7 +60,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Schousboe/Schousboe/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=75&fontColor=faab0c&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=faab0c"  />
+
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=75&fontColor=faab0c&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=faab0c"  />
 
 
 </div>
