@@ -8,8 +8,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Schousboe.Schousboe&style=for-the-badge&left_color=darkslategray&right_color=black&left_text=Visitors%20on%20this%20page"/>
 </div>
 
-<div align="center">
-
 <details>
   
 <summary><h1>Tech Stack</h1></summary>
