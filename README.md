@@ -58,8 +58,8 @@
 <details>
 
 <summary><h1>Stats</h1></summary>
-  
-[![GitHub Streak](https://github-readme-streak-stats-iota-ten-77.vercel.app?user=Schoussboe&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=90%2C470621%2C0B5CC3&stroke=EBEBEB&ring=FFFFFF&fire=DCDCDC&currStreakNum=DCDCDC&sideNums=DCDCDC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FF00C3&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
+
+[![Schousboe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Schousboe&custom_title=My%20contribution%20graph&hide_border=true&theme=github-compact&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://raw.githubusercontent.com/Schousboe/Schousboe/output/github-contribution-grid-snake-dark.svg)
 
