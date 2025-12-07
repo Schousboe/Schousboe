@@ -9,8 +9,10 @@
 </div>
 
 <div align="center">
+
+<details>
   
-# Tech Stack
+<summary><h1>Tech Stack</h1></summary>
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -40,28 +42,38 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+</details>
 
-# My articles on Medium!
+<details>
 
-[![My Medium profile](https://img.shields.io/badge/medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@schousboe)
+<summary><h1>My articles on</h1> <a href="https://medium.com/@schousboe">
+  <img src="https://img.shields.io/badge/medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge"/>
+</a></summary>
 
-## Latest Medium Articles
-
-### [Astro and the mordern frontend frameworks](https://medium.com/@Schousboe/astro-and-the-modern-frontend-landscape-0400487d8fd6)
-> _A comparative article on integrating React, Angular, Vue, Svelte, and Alpine.js_
+### [Astro and the modern frontend frameworks](https://medium.com/@Schousboe/astro-and-the-modern-frontend-landscape-0400487d8fd6)
+> _A comparative article on integrating React, Angular, Vue, Svelte, and Alpine.js with Astro_
 
 <img width="244" height="199" alt="image" src="https://github.com/user-attachments/assets/9d51cc81-8c95-481a-92ed-c320e69689a6" />
 
+</details>
 
-# Stats
+<details>
 
+<summary><h1>Stats</h1></summary>
   
 [![GitHub Streak](https://github-readme-streak-stats-iota-ten-77.vercel.app?user=Schoussboe&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&background=90%2C470621%2C0B5CC3&stroke=EBEBEB&ring=FFFFFF&fire=DCDCDC&currStreakNum=DCDCDC&sideNums=DCDCDC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FF00C3&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
 
 ![Snake animation](https://raw.githubusercontent.com/Schousboe/Schousboe/output/github-contribution-grid-snake-dark.svg)
+
+</details>
+
+<details>
+  <summary>My recent Github activities</summary>
+  <!--START_SECTION:activity-->
+</details>
+
 <div align="center">
 
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=75&fontColor=faab0c&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=faab0c"  />
-
 
 </div>
