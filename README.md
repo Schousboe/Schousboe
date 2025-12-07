@@ -70,6 +70,12 @@
 <details>
   <summary>My recent Github activities</summary>
   <!--START_SECTION:activity-->
+1. 🚀 Published release [Release v1.2.0](https://github.com/Schousboe/german-license-plates-register/releases/tag/v1.2.0) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
+2. ❌ Merged PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
+3. ❌ Assigned PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
+4. ❌ Labeled PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
+5. 💪 Opened PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
+<!--END_SECTION:activity-->
 </details>
 
 <div align="center">
