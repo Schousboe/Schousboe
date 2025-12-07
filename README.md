@@ -67,10 +67,8 @@
 
 </details>
 
-<details>
-  <summary>My recent Github activities</summary>
-  <!--START_SECTION:activity-->
-</details>
+### My recent Github activity
+<!--START_SECTION:activity-->
 
 <div align="center">
 
