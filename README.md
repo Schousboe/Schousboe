@@ -67,11 +67,11 @@
 
 ### My recent Github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/jcfitzpatrick12/spectre/pull/195#issuecomment-3626568264) in [jcfitzpatrick12/spectre](https://github.com/jcfitzpatrick12/spectre)
-2. 🚀 Published release [Release v1.2.0](https://github.com/Schousboe/german-license-plates-register/releases/tag/v1.2.0) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
-3. ❌ Merged PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
-4. ❌ Assigned PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
-5. ❌ Labeled PR [#1](undefined) in [Schousboe/german-license-plates-register](https://github.com/Schousboe/german-license-plates-register)
+1. ❌ Merged PR [#4](undefined) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+2. 💪 Opened PR [#4](undefined) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+3. 🗣 Commented on [#3](https://github.com/voxelearth/frontend/pull/3#issuecomment-3638719492) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+4. ❌ Closed PR [#3](undefined) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+5. 🔒 Closed issue [#1](https://github.com/skolhustick/plok.sh/issues/1) in [skolhustick/plok.sh](https://github.com/skolhustick/plok.sh)
 <!--END_SECTION:activity-->
 
 <div align="center">
