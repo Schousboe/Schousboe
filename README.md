@@ -67,10 +67,10 @@
 
 ### My recent Github activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](undefined) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
-2. 💪 Opened PR [#4](undefined) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+1. 🎉 Merged PR [#4](https://github.com/voxelearth/frontend/pull/4) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+2. 💪 Opened PR [#4](https://github.com/voxelearth/frontend/pull/4) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
 3. 🗣 Commented on [#3](https://github.com/voxelearth/frontend/pull/3#issuecomment-3638719492) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
-4. ❌ Closed PR [#3](undefined) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+4. ❌ Closed PR [#3](https://github.com/voxelearth/frontend/pull/3) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
 5. 🔒 Closed issue [#1](https://github.com/skolhustick/plok.sh/issues/1) in [skolhustick/plok.sh](https://github.com/skolhustick/plok.sh)
 <!--END_SECTION:activity-->
 
