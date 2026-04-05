@@ -67,10 +67,10 @@
 
 ### My recent Github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Schousboe/CityByPlate/pull/2) in [Schousboe/CityByPlate](https://github.com/Schousboe/CityByPlate)
-2. ℹ️ Assigned PR [#2](https://github.com/Schousboe/CityByPlate/pull/2) in [Schousboe/CityByPlate](https://github.com/Schousboe/CityByPlate)
-3. 💪 Opened PR [#2](https://github.com/Schousboe/CityByPlate/pull/2) in [Schousboe/CityByPlate](https://github.com/Schousboe/CityByPlate)
-4. ❌ Closed PR [#3](https://github.com/voxelearth/frontend/pull/3) in [voxelearth/frontend](https://github.com/voxelearth/frontend)
+1. 🎉 Merged PR [#7](https://github.com/danielunited/codefolio/pull/7) in [danielunited/codefolio](https://github.com/danielunited/codefolio)
+2. 🎉 Merged PR [#2](https://github.com/Schousboe/CityByPlate/pull/2) in [Schousboe/CityByPlate](https://github.com/Schousboe/CityByPlate)
+3. ℹ️ Assigned PR [#2](https://github.com/Schousboe/CityByPlate/pull/2) in [Schousboe/CityByPlate](https://github.com/Schousboe/CityByPlate)
+4. 💪 Opened PR [#2](https://github.com/Schousboe/CityByPlate/pull/2) in [Schousboe/CityByPlate](https://github.com/Schousboe/CityByPlate)
 5. 🔒 Closed issue [#1](https://github.com/skolhustick/plok.sh/issues/1) in [skolhustick/plok.sh](https://github.com/skolhustick/plok.sh)
 <!--END_SECTION:activity-->
 
